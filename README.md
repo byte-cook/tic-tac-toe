@@ -27,7 +27,3 @@ java -jar target/tic-tac-toe-1.1.jar
 
 If you win, please let me know how? :)
 
-
-## TODO
-- tag 1.1.0
-
